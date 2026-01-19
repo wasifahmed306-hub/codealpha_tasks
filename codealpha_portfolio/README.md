@@ -1,23 +1,20 @@
-# 🚀 Frontend Web Project
+# 🌐 Personal Portfolio Website
 
-This project is a frontend web application built with HTML, CSS, and JavaScript and deployed on Netlify.
+A modern and responsive personal portfolio website showcasing projects, skills, and contact information.
 
-## 🔗 Live Website
+## 🔗 Live Demo
 👉 https://visionary-truffle-a490db.netlify.app/
 
-## ✨ Highlights
-- Responsive layout
-- Modern UI design
-- Optimized performance
-- Easy navigation
+## ✨ Features
+- Clean and modern UI
+- Fully responsive design
+- Projects showcase section
+- Smooth animations
+- Contact section
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 - HTML
 - CSS
 - JavaScript
 
-## 📦 Deployment Platform
-- Netlify
-
-## 👤 Author
-**Wasif Ahmed**
+## 📂 Project Structure
