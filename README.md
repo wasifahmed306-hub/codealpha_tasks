@@ -22,7 +22,7 @@ HTML, CSS, JavaScript
 A modern and responsive personal portfolio showcasing skills, projects, and contact information.
 
 🔗 Live Demo:  
-https://visionary-truffle-a490db.netlify.app/
+[https://visionary-truffle-a490db.netlify.app/](https://singular-licorice-e3e748.netlify.app/)
 
 **Tech Stack:**  
 HTML, CSS, JavaScript  
