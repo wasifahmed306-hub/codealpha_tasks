@@ -1,31 +1,47 @@
-# 🚀 CodeAlpha Tasks Repository
+# 🚀 CodeAlpha Tasks
 
-This repository contains multiple frontend projects created as part of **CodeAlpha Internship Tasks**.  
-Each project demonstrates practical implementation of core web development concepts.
+This repository contains frontend projects developed as part of the **CodeAlpha Internship Program**.  
+Each project demonstrates core web development concepts using HTML, CSS, and JavaScript.
 
-## 📁 Projects Included
+---
+
+## 📁 Projects
 
 ### 🧮 Calculator App
-🔗 Live: https://wasifahmed306-hub.github.io/calculator/  
-A simple calculator using HTML, CSS, and JavaScript.
+A simple and responsive calculator web application.
 
-### 🌐 Portfolio Website
-🔗 Live: https://visionary-truffle-a490db.netlify.app/  
-A responsive personal portfolio website.
+🔗 Live Demo:  
+https://wasifahmed306-hub.github.io/calculator/
+
+**Tech Stack:**  
+HTML, CSS, JavaScript
+
+---
+
+### 🌐 Personal Portfolio Website
+A modern and responsive portfolio website showcasing skills and projects.
+
+🔗 Live Demo:  
+https://visionary-truffle-a490db.netlify.app/
+
+**Tech Stack:**  
+HTML, CSS, JavaScript  
+Hosted on Netlify
+
+---
 
 ## 🛠️ Technologies Used
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - GitHub Pages
 - Netlify
 
 ## 🎯 Purpose
 - Practice frontend development
-- Learn deployment using GitHub Pages & Netlify
-- Build real-world projects
+- Learn real-world project structuring
+- Deploy projects using modern platforms
 
 ## 👤 Author
 **Wasif Ahmed**  
 GitHub: https://github.com/wasifahmed306-hub
-
