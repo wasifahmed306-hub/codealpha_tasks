@@ -31,18 +31,18 @@ Hosted on Netlify
 ---
 
 ### 🖼️ Image Gallery
-A responsive image gallery with a clean grid layout and fullscreen image preview on click.
+A responsive image gallery with a grid layout and fullscreen image preview on click.
+
+🔗 Live Demo:  
+https://wasifahmed306-hub.github.io/codealpha_tasks/image-gallery/
 
 ✨ Features:
 - Responsive grid layout
-- Click to view image in fullscreen popup
-- Smooth hover effects
+- Click image to view fullscreen
+- Clean UI with hover effects
 
 **Tech Stack:**  
 HTML, CSS, JavaScript
-
-📂 Project Folder:  
-`/image-gallery`
 
 ---
 
@@ -56,7 +56,7 @@ HTML, CSS, JavaScript
 ## 🎯 Purpose
 - Practice frontend development
 - Build real-world UI components
-- Learn deployment and project structuring
+- Learn project deployment
 
 ## 👤 Author
 **Wasif Ahmed**  
