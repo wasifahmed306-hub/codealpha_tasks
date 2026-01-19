@@ -34,7 +34,7 @@ Hosted on Netlify
 A responsive image gallery with a grid layout and fullscreen image preview on click.
 
 🔗 Live Demo:  
-[https://wasifahmed306-hub.github.io/codealpha_tasks/image-gallery/](https://visionary-truffle-a490db.netlify.app/)
+[[https://wasifahmed306-hub.github.io/codealpha_tasks/image-gallery/](https://visionary-truffle-a490db.netlify.app/)](https://visionary-truffle-a490db.netlify.app/)
 
 ✨ Features:
 - Responsive grid layout
